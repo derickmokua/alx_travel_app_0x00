@@ -41,9 +41,7 @@ alx_travel_app/
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
+1. Clone the Repository
 git clone https://github.com/<your-username>/alx_travel_app.git
 cd alx_travel_app
 2. Create a Virtual Environment
